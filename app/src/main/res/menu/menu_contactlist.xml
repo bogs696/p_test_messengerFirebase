@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_logout" android:title="@string/contactlist_menu_action_signoff"
+        android:orderInCategory="100" />
+    <item android:id="@+id/action_options" android:title="@string/contactlist_menu_action_options"
+        android:orderInCategory="101" />
+</menu>
